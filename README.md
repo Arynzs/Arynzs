@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and software engineering
 - 🌱 I’m currently learning python and SQL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 You can reach me on kabiratibrahim2@gmail.com
 
 <!---
 Arynzs/Arynzs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
